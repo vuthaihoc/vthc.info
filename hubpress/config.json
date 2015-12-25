@@ -1,12 +1,1 @@
-{
-  "meta": {
-    "username": "vuthaihoc",
-    "repositoryName": "vuthaihoc.github.io",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
-
-
+{"meta":{"username":"vuthaihoc","repositoryName":"vuthaihoc.github.io","branch":"gh-pages"},"site":{"title":"Hoc's BLOG","url":"https://vuthaihoc.github.io/vuthaihoc.github.io"},"socialnetwork":{"github":"https://github.com/vuthaihoc/"},"theme":{"name":"Casper","url":"//vuthaihoc.github.io/vuthaihoc.github.io/themes/Casper"}}
